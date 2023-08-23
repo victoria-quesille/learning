@@ -1,2 +1,2 @@
-# learning
-Resources from programming, geological and hydrogeological learning 
+# Pandas learning
+Resources from pandas library
